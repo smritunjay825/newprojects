@@ -38,6 +38,8 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<p>Most of us have been huge fans of Pokemon since childhood. You can make a very simple and fun React project using PokeAPI. Here you can fetch the Pokemon details or their characteristics through this API and you can make a fun project using this. Make different cards for each Pokemon and on each card show their pictures, their names, etc. You can make a “read more” button on a Pokemon card, by clicking those buttons users will get to know more things about each Pokemon. To generate more and more Pokemons, create a button too much that on clicking that button, users will get to see more Pokemon cards.</p>
+
 
 ## Learn More
 
